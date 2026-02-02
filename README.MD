@@ -17,3 +17,7 @@ Esemfon Edet
 
 ## Instructor
 Professor Diana Rabah
+
+## TAs
+Jordan Black
+Sai Sri harsha chakravarthula
