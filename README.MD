@@ -19,5 +19,5 @@ Esemfon Edet
 Professor Diana Rabah
 
 ## TAs
-Jordan Black
-Sai Sri harsha chakravarthula
+Jordan Black  
+Sai Sri harsha chakravarthula  
